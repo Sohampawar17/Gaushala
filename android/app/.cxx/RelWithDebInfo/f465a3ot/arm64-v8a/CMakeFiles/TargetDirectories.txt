@@ -1,0 +1,2 @@
+C:/src/Gaushala/android/app/.cxx/RelWithDebInfo/f465a3ot/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/src/Gaushala/android/app/.cxx/RelWithDebInfo/f465a3ot/arm64-v8a/CMakeFiles/rebuild_cache.dir
